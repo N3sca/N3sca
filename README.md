@@ -34,7 +34,7 @@ The car🔐
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows-Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows-Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br /> <br />
 
